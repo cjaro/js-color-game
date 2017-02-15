@@ -1,0 +1,23 @@
+.box {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  border: 1px solid black;
+  float: left;
+}
+
+.rose {
+  background-color: #ff0066;
+}
+
+.gold {
+  background-color: #ffcc00;
+}
+
+.green {
+  background-color: #00802b;
+}
+
+.blue {
+  background-color: #3366ff;
+}
